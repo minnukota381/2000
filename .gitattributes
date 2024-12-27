@@ -1,2 +1,1 @@
-# Prioritize .md files for language detection
-*.md linguist-language=Markdown
+* linguist-language=Markdown
